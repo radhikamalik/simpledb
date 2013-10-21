@@ -1,0 +1,4 @@
+Added table : data with schema INT_TYPE(f1),INT_TYPE(f2)
+Computing table stats.
+Done.
+SimpleDB> 
